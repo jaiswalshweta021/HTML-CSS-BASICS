@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Line Break  Example</title>
+</head>
+<body>
+<p>Hello<br />
+LPU<br />
+Block -34<br />
+CSE </p>
+</body>
+</html>
