@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="first1.css">
+        <style>
+            #para1{
+                background-color: aqua;
+                text-align: center;
+            }
+            .ing{
+                background-color: blue;
+                text-align: left;
+            }
+            h2,h3{
+                background-color: aquamarine;
+                text-align: right;
+            }
+        </style>
+    </head>
+    <body>
+        <p id="para1">CASCADING STYLE SHEETS</p>
+        <h class="ing">CASCADING STYLE SHEETS</h>
+        <h2>Lorem, ipsum.</h2>
+        <h3>Lorem ipsum dolor sit amet.</h3>
+    </body>
+
+</html>
